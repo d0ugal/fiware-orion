@@ -2,7 +2,7 @@ site_name: Fiware-Orion
 site_url: https://telefonicaid.github.io/fiware-orion/doc
 repo_url: https://github.com/telefonicaid/fiware-orion.git
 site_description: Orion Context Broker
-docs_dir: /
+docs_dir: ./
 site_dir: html
 markdown_extensions: [toc,fenced_code]
 use_directory_urls: false
