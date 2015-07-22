@@ -10,7 +10,7 @@ theme: readthedocs
 extra_css: ["http://fiware.org/fiware.css"]
 pages:
   - Home: README.md
-  - 'Getting Started': 'quick_start_guide.md'
+  - 'Getting Started': 'doc/manuals/quick_start_guide.md'
   - 'User Manual':
       - Introduction: 'doc/manuals/user/walkthrough_apiv1.md'
       - 'Adding entities and attributes': 'doc/manuals/user/append_and_delete.md'
